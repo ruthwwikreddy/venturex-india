@@ -4,7 +4,7 @@ export const caseStudies = [
     title: 'MediLink Healthcare Platform',
     description: 'Revolutionizing healthcare management through innovative MVP development',
     category: 'Healthcare',
-    image: './assets/images/1.png',
+    image: 'https://ruthwwikreddy.github.io/venturex-india/assets/images/1.png',
     status: 'Ongoing',
     overview: 'MediLink sought to streamline healthcare access, enhance patient safety, and optimize resource utilization through an innovative healthcare management platform.',
     challenge: [
@@ -41,7 +41,7 @@ export const caseStudies = [
     title: 'Muscle Works Fitness Platform',
     description: 'Digital transformation for a modern fitness experience',
     category: 'Fitness',
-    image: './assets/images/2.png',
+    image: 'https://ruthwwikreddy.github.io/venturex-india/assets/images/2.png',
     status: 'Ongoing',
     overview: 'Muscle Works needed a comprehensive digital platform to streamline member registration, booking systems, and enhance customer engagement while maintaining personalized training services.',
     challenge: [
@@ -73,7 +73,7 @@ export const caseStudies = [
     title: 'Dolce Vita Digital Platform',
     description: 'Transforming custom cake ordering experience',
     category: 'Food & Beverage',
-    image: './assets/images/3.png',
+    image: 'https://ruthwwikreddy.github.io/venturex-india/assets/images/3.png',
     status: 'Ongoing',
     overview: 'Dolce Vita required a sophisticated online ordering system to handle custom cake requests while maintaining quality and scaling their business effectively.',
     challenge: [
@@ -105,7 +105,7 @@ export const caseStudies = [
     title: 'Ruthwik Portfolio',
     description: 'Showcasing expertise in MVP development and innovative solutions',
     category: 'Portfolio',
-    image: './assets/images/4.png',
+    image: 'https://ruthwwikreddy.github.io/venturex-india/assets/images/4.png',
     status: 'Handovered',
     overview: 'Ruthwik Portfolio highlights key case studies and projects executed by VentureX, emphasizing the impact of MVP development and digital transformation.',
     challenge: [
